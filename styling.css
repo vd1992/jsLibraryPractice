@@ -1,0 +1,12 @@
+.square{
+    height:10px;
+    width:10px;
+    background-color: red;
+}
+
+#bigSq{
+    height:125px;
+    width:125px;
+    background-color:blue;
+    margin-top:50px;
+}
